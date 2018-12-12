@@ -6,9 +6,9 @@ I enrolled computational physics my senior year, the class was project based, th
 
 # Project Descriptions
 
-  1) 12StepsToFluidDynamics
-    a) I work through 12 Steps To Navier Stokes, Giving myself a crash course, by way of overview, in computational fluid dynamics
-    b) See Lorena A. Barba's set of clear <a href="http://lorenabarba.com/blog/cfd-python-12-steps-to-navier-stokes/"> Jupyter notebooks</a>
+  * 12StepsToFluidDynamics
+    * I work through 12 Steps To Navier Stokes, Giving myself a crash course, by way of overview, in computational fluid dynamics
+    * See Lorena A. Barba's set of clear <a href="http://lorenabarba.com/blog/cfd-python-12-steps-to-navier-stokes/"> Jupyter notebooks</a>
     
   2) BallonInAFluid
     a) I build a simple model of a bouyant ballon in a fluid of variable density. I use the variable density to build soft boundary condistions and sucsesfully contain the ballon to a small area with these boundary conditions.
